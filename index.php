@@ -64,6 +64,7 @@
 							?>
 							</tbody>
 						</table>
+<<<<<<< HEAD
 					</div>
 					<div class="col-lg-4">
 						
@@ -87,6 +88,12 @@
 
 	
 =======
+		</div>	
+>>>>>>> 0fb42718463ef0cbc538b7bc594da02c6e768a08
+=======
+					</div>
+				</div>
+			</div>
 		</div>	
 >>>>>>> 0fb42718463ef0cbc538b7bc594da02c6e768a08
 </body>
